@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/user/Desktop/Sample%20DITA%20XML%20-%20Arthi/using_the_panecal_scientific_calculator.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Using the Panecal Scientific Calculator</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Using the Panecal Scientific Calculator</title>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Setting Up Your Environment"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d74e14">Setting Up Your Environment</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" navtitle="Environment Setup" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="introduction"><resourceid appid="introduction" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Environment setup - Introduction</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Tools setup to build the user guide for the Panecal Scientific         Calculator.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="installing_the_oxygen_xml_authoring_tool"><resourceid appid="installing_the_oxygen_xml_authoring_tool" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Installing the Oxygen XML Authoring Tool</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Get started using one of the best XML authoring tools - Oxygen!</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Documentation Development Life Cycle"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d74e38">Documentation Development Life Cycle</navtitle></topicmeta></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d74e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Setting Up Your Environment</ph></title><concept class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="introduction" oid="introduction" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Environment setup - Introduction</ph></title>
+    <shortdesc class="- topic/shortdesc ">Tools setup to build the user guide for the Panecal Scientific
+        Calculator.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "> To build the user guide for the Panecal Scientific Calculator, you must first set up the
+            environment on your computer as follows:</p>
+        <ul class="- topic/ul " id="unique_1_Connect_42_ul_ipq_zrb_xvb" nd:nd-id="ul_ipq_zrb_xvb">
+            <li class="- topic/li ">Install the trial version of Oxygen XML authoring tool (version 25.0 above).</li>
+            <li class="- topic/li ">Upload the Oxygen XML files in a public GitHub repository.</li>
+            <li class="- topic/li ">Publish and share your deliverable using the public GitHub repository.</li>
+        </ul>
+        <section class="- topic/section " id="unique_1_Connect_42_section_s4c_lvb_xvb" nd:nd-id="section_s4c_lvb_xvb">
+            <title class="- topic/title ">System requirements</title>
+            <fig class="- topic/fig " id="unique_1_Connect_42_fig_oz1_mvb_xvb" nd:nd-id="fig_oz1_mvb_xvb"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Oxygen - First breath system requirements</ph></title><image class="- topic/image " dita-ot:image-width="1024" dita-ot:image-height="619" href="file:/C:/Users/user/Desktop/Sample%20DITA%20XML%20-%20Arthi/Images/Oxygen%20-%20First%20breath%20System%20Requirements.png" id="unique_1_Connect_42_image_mhl_1wb_xvb" nd:nd-id="image_mhl_1wb_xvb" placement="inline" scale="60">
+                    <alt class="- topic/alt ">A graphic displaying the system requirements before you set up the
+                        environment for building your User Guide.</alt>
+                </image></fig>
+        </section>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="installing_the_oxygen_xml_authoring_tool" oid="installing_the_oxygen_xml_authoring_tool" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Installing the Oxygen XML Authoring Tool</ph></title>
+    <shortdesc class="- topic/shortdesc ">Get started using one of the best XML authoring tools - Oxygen!</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_2_Connect_42_prereq_pgv_m5b_xvb" nd:nd-id="prereq_pgv_m5b_xvb">Ensure that your computer satisifes the basic system
+            requirements to install the Oxygen XML authoring tool.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Install the Oxygen XML Authoring Tool (version 25.0 or later).</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">On a browser instance, type <xref class="- topic/xref " format="html" href="http://www.oxygenxml.com" scope="external"><?ditaot usertext?>www.oxygenxml.com</xref>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <uicontrol class="+ topic/ph ui-d/uicontrol ">Products</uicontrol><menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;18:72" xtrf="file:/C:/Users/user/Desktop/Sample%20DITA%20XML%20-%20Arthi/installing_the_oxygen_xml_authoring_tool.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Oxygen XML Author</uicontrol></menucascade>.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_2_Connect_42_fig_lln_byb_xvb" nd:nd-id="fig_lln_byb_xvb"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Installation -- Products-Oxygen XML Author</ph></title><image class="- topic/image " dita-ot:image-width="1362" dita-ot:image-height="583" href="file:/C:/Users/user/Desktop/Sample%20DITA%20XML%20-%20Arthi/Images/Installation%20--%20Products-Oxygen%20XML%20Author.png" id="unique_2_Connect_42_image_mln_byb_xvb" nd:nd-id="image_mln_byb_xvb" placement="inline" scale="60">
+                            <alt class="- topic/alt ">Displays a snapshot of what appears on the web page when you choose
+                                Products-&gt;OxygenXMLAuthor. </alt>
+                        </image></fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Download</b>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">On the page, select the tab that corresponds to your operating system, and
+                    click <b class="+ topic/ph hi-d/b ">Download</b>.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_2_Connect_42_fig_i1t_gzb_xvb" nd:nd-id="fig_i1t_gzb_xvb"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Installation -- Download Oxygen XML Author for 64-bit Windows</ph></title><image class="- topic/image " dita-ot:image-width="1481" dita-ot:image-height="956" href="file:/C:/Users/user/Desktop/Sample%20DITA%20XML%20-%20Arthi/Images/Installation%20--%20Download%20Oxygen%20XML%20Author%20for%2064-bit%20Windows.png" id="unique_2_Connect_42_image_jss_11c_xvb" nd:nd-id="image_jss_11c_xvb" placement="inline" scale="60">
+                            <alt class="- topic/alt ">Displays the web page that enables you to download the
+                                OxygenXMLAuthor for the 64-bit operating system. </alt>
+                        </image></fig>
+                </info>
+                <stepresult class="- topic/itemgroup task/stepresult ">The .exe file downloads to your system. </stepresult>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the required details in the form provided to obtain your 30-day trial
+                    license.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_2_Connect_42_fig_dyf_p1c_xvb" nd:nd-id="fig_dyf_p1c_xvb"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Installation -- Getting the trial license</ph></title><image class="- topic/image " dita-ot:image-width="895" dita-ot:image-height="495" href="file:/C:/Users/user/Desktop/Sample%20DITA%20XML%20-%20Arthi/Images/Installation%20--%20Getting%20the%20trial%20license.png" id="unique_2_Connect_42_image_kjs_q1c_xvb" nd:nd-id="image_kjs_q1c_xvb" placement="inline" scale="60">
+                            <alt class="- topic/alt ">Displays the form to enter the required details to obtain the
+                                30-day trial license.</alt>
+                        </image></fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Start the installation wizard to install the Oxygen XML author. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Double-click the Oxygen XML Author shortcut on your desktop to invoke an
+                    instance of the tool. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">When prompted, enter the 9-line license text in the space provided.</cmd>
+            </step>
+            <step class="- topic/li task/step " importance="optional">
+                <cmd class="- topic/ph task/cmd ">To learn more about the Oxygen XML Author, visit: <xref class="- topic/xref " format="html" href="https://www.oxygenxml.com/doc/versions/25.0/ug-author" scope="external"/>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d74e38" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Documentation Development Life Cycle</ph></title></topic></map>
