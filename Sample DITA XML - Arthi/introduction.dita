@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction">
+    <title>Environment setup - Introduction</title>
+    <shortdesc>Tools setup to build the user guide for the Panecal Scientific
+        Calculator.</shortdesc>
+    <conbody>
+        <p> To build the user guide for the Panecal Scientific Calculator, you must first set up the
+            environment on your computer as follows:</p>
+        <ul id="ul_ipq_zrb_xvb">
+            <li>Install the trial version of Oxygen XML authoring tool (version 25.0 above).</li>
+            <li>Upload the Oxygen XML files in a public GitHub repository.</li>
+            <li>Publish and share your deliverable using the public GitHub repository.</li>
+        </ul>
+        <section id="section_s4c_lvb_xvb">
+            <title>System requirements</title>
+            <fig id="fig_oz1_mvb_xvb">
+                <title>Oxygen - First breath system requirements</title>
+                <image href="Images/Oxygen%20-%20First%20breath%20System%20Requirements.png"
+                    scale="60" id="image_mhl_1wb_xvb">
+                    <alt>A graphic displaying the system requirements before you set up the
+                        environment for building your User Guide.</alt>
+                </image>
+            </fig>
+        </section>
+    </conbody>
+</concept>

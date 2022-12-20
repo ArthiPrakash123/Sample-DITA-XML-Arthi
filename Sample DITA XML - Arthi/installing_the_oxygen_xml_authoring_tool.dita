@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="installing_the_oxygen_xml_authoring_tool">
+    <title>Installing the Oxygen XML Authoring Tool</title>
+    <shortdesc>Get started using one of the best XML authoring tools - Oxygen!</shortdesc>
+    <taskbody>
+        <prereq id="prereq_pgv_m5b_xvb">Ensure that your computer satisifes the basic system
+            requirements to install the Oxygen XML authoring tool.</prereq>
+        <context>
+            <p>Install the Oxygen XML Authoring Tool (version 25.0 or later).</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On a browser instance, type <xref href="http://www.oxygenxml.com" format="html"
+                        scope="external">www.oxygenxml.com</xref>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Products</uicontrol><menucascade>
+                        <uicontrol>Oxygen XML Author</uicontrol>
+                    </menucascade>.</cmd>
+                <info>
+                    <fig id="fig_lln_byb_xvb">
+                        <title>Installation -- Products-Oxygen XML Author</title>
+                        <image href="Images/Installation%20--%20Products-Oxygen%20XML%20Author.png"
+                            scale="60" id="image_mln_byb_xvb">
+                            <alt>Displays a snapshot of what appears on the web page when you choose
+                                Products->OxygenXMLAuthor. </alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Click <b>Download</b>.</cmd>
+            </step>
+            <step>
+                <cmd>On the page, select the tab that corresponds to your operating system, and
+                    click <b>Download</b>.</cmd>
+                <info>
+                    <fig id="fig_i1t_gzb_xvb">
+                        <title>Installation -- Download Oxygen XML Author for 64-bit Windows</title>
+                        <image
+                            href="Images/Installation%20--%20Download%20Oxygen%20XML%20Author%20for%2064-bit%20Windows.png"
+                            scale="60" id="image_jss_11c_xvb">
+                            <alt>Displays the web page that enables you to download the
+                                OxygenXMLAuthor for the 64-bit operating system. </alt>
+                        </image>
+                    </fig>
+                </info>
+                <stepresult>The .exe file downloads to your system. </stepresult>
+            </step>
+            <step>
+                <cmd>Enter the required details in the form provided to obtain your 30-day trial
+                    license.</cmd>
+                <info>
+                    <fig id="fig_dyf_p1c_xvb">
+                        <title>Installation -- Getting the trial license</title>
+                        <image href="Images/Installation%20--%20Getting%20the%20trial%20license.png"
+                            scale="60" id="image_kjs_q1c_xvb">
+                            <alt>Displays the form to enter the required details to obtain the
+                                30-day trial license.</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Start the installation wizard to install the Oxygen XML author. </cmd>
+            </step>
+            <step>
+                <cmd>Double-click the Oxygen XML Author shortcut on your desktop to invoke an
+                    instance of the tool. </cmd>
+            </step>
+            <step>
+                <cmd>When prompted, enter the 9-line license text in the space provided.</cmd>
+            </step>
+            <step importance="optional">
+                <cmd>To learn more about the Oxygen XML Author, visit: <xref
+                        href="https://www.oxygenxml.com/doc/versions/25.0/ug-author" format="html"
+                        scope="external"/>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

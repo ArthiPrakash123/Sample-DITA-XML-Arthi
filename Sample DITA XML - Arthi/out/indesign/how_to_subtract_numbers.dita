@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Topic Title 1">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>How to subtract numbers</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Topic Title 1">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Short Description">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Here you will find instructions to use the subraction feature of the JPS calculator.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Short Description">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>To successfully subtract numbers, you must know what is
+            subtraction. <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body Para">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Use this task to subtract two numbers using the subtraction feature of the JPS calculator.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body Para">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/List Number First">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Enter the first number.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/List Number First">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/List Number">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Click the minus (-) button.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/List Number">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/List Number">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content> Enter the second number. </Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/List Number">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/List Number">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Click the equal button. </Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/List Number">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>The result from the subtraction is displayed. </manifest>

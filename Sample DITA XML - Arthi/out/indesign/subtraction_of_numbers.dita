@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Topic Title 1">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Subtraction of numbers</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Topic Title 1">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Short Description">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Explains subtraction as a mathematical operation.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Short Description">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body Para">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Subtraction is the mathematical operation; it is a process or action that you do with numbers. Subtraction allows you to find the difference of two numbers. </Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body Para">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+</manifest>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Using the Panecal Scientific Calculator</title>
+    <topichead navtitle="Setting Up Your Environment">
+        <topicref href="introduction.dita" navtitle="Environment Setup"/>
+        <topicref href="installing_the_oxygen_xml_authoring_tool.dita"/>
+    </topichead>
+    <topichead navtitle="Documentation Development Life Cycle"/>
+</map>
