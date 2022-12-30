@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="overview" path="overview.html"/>
+   <appContext helpID="downloading_the_app" path="downloading_the_app.html"/>
+   <appContext helpID="downloading_the_app_on_your_phone_or_tablet"
+               path="downloading_the_app_on_your_phone_or_tablet.html"/>
+   <appContext helpID="downloading_the_app_on_your_iphone_or_ipad"
+               path="downloading_the_app_on_your_iphone_or_ipad.html"/>
+   <appContext helpID="using_the_app_functionality"
+               path="using_the_app_functionality.html"/>
+   <appContext helpID="registering_and_recalling_the_main_memory"
+               path="registering_and_recalling_the_main_memory.html"/>
+   <appContext helpID="increasing_number_of_digits_after_decimal_point"
+               path="increasing_number_of_digits_after_decimal_point.html"/>
+</map>
