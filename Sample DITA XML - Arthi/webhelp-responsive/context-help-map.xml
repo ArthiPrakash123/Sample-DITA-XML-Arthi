@@ -10,6 +10,4 @@
                path="using_the_app_functionality.html"/>
    <appContext helpID="registering_and_recalling_the_main_memory"
                path="registering_and_recalling_the_main_memory.html"/>
-   <appContext helpID="increasing_number_of_digits_after_decimal_point"
-               path="increasing_number_of_digits_after_decimal_point.html"/>
 </map>
